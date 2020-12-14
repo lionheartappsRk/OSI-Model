@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#64FFDA</color>
+
+
+    <color name="welcomeBg">#009688</color>
+
+    <color name="textColor">#fff</color>
+    <color name="HeadtextColor">#ECEFF1</color>
+
+    <color name="ColorControlHighLight">#64FFDA</color>
+
+
+    <!-- Extra Colors-->
+
+    <color name="circle">#0095a9</color>
+    <color name="circle2">#EF4E54</color>
+
+    <!--  <color name="table_color">#43ee4a</color>
+      <color name="table_color2">#7772f2</color>-->
+
+    <color name="table_color">#EF4E54</color>
+    <color name="table_color2">#7772f2</color>
+
+    <color name="heading_textColor">#fff</color>
+    <color name="table_textColor">#8BC34A</color>
+
+    <!--<color name="heading_color">#edf272</color>-->
+
+    <color name="table_heading_color">#fafafa</color>
+    <color name="table_heading_color2">#40FF00</color>
+    <color name="table_heading_color3">#edf272</color>
+
+    <color name="table_bg">@color/cardview_shadow_end_color</color>
+    <color name="table_bg2">@color/cardview_shadow_start_color</color>
+
+    <color name="storage_bg">#ef544e</color>
+    <color name="storage_bg2">#7772f2</color>
+    <color name="storage_bg3">#b2b2b2</color>
+</resources>

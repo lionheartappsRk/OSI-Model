@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "719216715739",
+    "firebase_url": "https://osi-model.firebaseio.com",
+    "project_id": "osi-model",
+    "storage_bucket": "osi-model.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719216715739:android:8e5a01e470c45d99",
+        "android_client_info": {
+          "package_name": "com.lionheartapps.rk.osimodel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719216715739-325fed4orks8ai2g1s20g2vef6v6tgh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lionheartapps.rk.osimodel",
+            "certificate_hash": "5fe9583fa0ecccdaaa3c8aae8657d75b36ac44cb"
+          }
+        },
+        {
+          "client_id": "719216715739-4fv0a2ve2u2pdl56cff2j2fmkpaucr6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP4aJydc2CWEE7xAQ6FrFOtkCLf-mFIqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719216715739-4fv0a2ve2u2pdl56cff2j2fmkpaucr6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5779379636400753~4210369422"
+    }
+  ],
+  "configuration_version": "1"
+}

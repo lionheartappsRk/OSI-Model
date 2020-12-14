@@ -1,0 +1,471 @@
+<resources>
+    <string name="app_name">OSI Model</string>
+    <string name="tv_submit">Submit</string>
+
+    <!-- Welcome Screen-->
+
+    <string name="skipText">Skip</string>
+    <string name="submitText">Submit</string>
+    <string name="hint_welcome">Welcome</string>
+    <string name="hint_email">Enter Your Email</string>
+    <string name="hint_name">Enter Your Name</string>
+
+    <string name="welcome_text">\nStay Connected with Lionheartapps.\n Subscribe to latest newsletter, android updates and much more!</string>
+
+
+    <!--ADMob -->
+    <string name="banner_ad_unit_id">ca-app-pub-5779379636400753/5687102629</string>
+    <string name="native_ad_unit_id">ca-app-pub-5779379636400753/2184983020</string>
+    <string name="reward_ad_unit_id"> ca-app-pub-5779379636400753/5361614623</string>
+    <string name="inter_ad_unit_id">ca-app-pub-5779379636400753/2354873020</string>
+    <string name="native_large_ad_unit_id">ca-app-pub-5779379636400753/1924286620</string>
+    <string name="app_id">ca-app-pub-5779379636400753~4210369422</string>
+
+    <!-- Pref Category Settings -->
+    <!-- Theme -->
+    <string-array name="themes">
+        <item>Blue</item>
+        <item>Dark</item>
+        <item>Green</item>
+    </string-array>
+    <string name="def_theme">Blue</string>
+    <string name="theme_background">Background</string>
+    <string name="theme_summary">Select Background</string>
+    <string name="theme_dialog_title">Background </string>
+    <!-- Vibration -->
+    <string name="vb_name">Vibration Control</string>
+    <string name="vb_summaryOn">On</string>
+    <string name="vb_summaryOff">Off</string>
+    <string name="vb_title">Vibrate On press</string>
+    <!-- Version info -->
+    <string name="Vi_name">Version Info</string>
+    <string name="vi_summary">version</string>
+    <string name="vi_title">Latest version</string>
+    <!-- Privacy Policy -->
+    <string name="legal">Legal</string>
+    <string name="pp_name">Privacy Policy</string>
+    <string name="pp_summary">Read the policy</string>
+    <!-- Feedback -->
+    <string name="feedback">Feedback</string>
+
+    <string name="contact_us">Problems?</string>
+    <string name="feed_contact_summary">Email- lionheartapps.rk@gmail.com</string>
+
+    <string name="rate_us">Like OSI Model?</string>
+    <string name="rate_summary">Rate it in the Play Store</string>
+
+    <!-- Other -->
+    <string name="other">Other</string>
+    <string name="moreapps">More Apps</string>
+    <string name="moreapps_summary">Download the other apps </string>
+
+    <string name="share">Share This Apps</string>
+    <string name="share_summary">Share it with your friends</string>
+
+    <!-- Pref Category Settings FINISH-->
+
+    <!-- About -->
+    <string name="about_me">Hi, I am Krunal Rana.</string>
+    <string name="about_app">I tried my best to create this app user friendly. I hope you enjoy it . If you have a problem or suggestion related to this app then please send me feedback. All feedbacks and comments are welcome..</string>
+    <string name="about_app_free">I created this app for education purpose for free.</string>
+
+    <!-- Activities & Menu -->
+    <string name="action_settings">Settings</string>
+    <string name="action_welcome">Welcome</string>
+    <string name="action_about">About</string>
+
+
+    <!-- Main Screen Button-->
+    <string name="title">Open System Interconnection \n(OSI) Model</string>
+
+    <string name="osiBtn">OSI Model</string>
+    <string name="tcpBtn">TCP/IP Model</string>
+    <string name="moreStuffsBtn">More Stuffs</string>
+    <string name="figureBtn">Figures</string>
+
+    <string name="osiLayers">OSI Model Layers</string>
+    <string name="tcpLayers">TCP/IP Model Layers</string>
+    <string name="unknown">Unknown</string>
+
+
+    <!--OSI Model Button -->
+    <string name="introduction">Introduction</string>
+    <string name="application">Application Layer</string>
+    <string name="presentation">Presentation Layer</string>
+    <string name="session">Session Layer</string>
+    <string name="transport">Transport Layer</string>
+    <string name="network">Network Layer</string>
+    <string name="datalink">Datalink Layer</string>
+    <string name="physical">Physical Layer</string>
+
+    <string name="applicationBtn">7. Application Layer</string>
+    <string name="presentationBtn">6. Presentation Layer</string>
+    <string name="sessionBtn">5. Session Layer</string>
+    <string name="transportBtn">4. Transport Layer</string>
+    <string name="networkBtn">3. Network Layer</string>
+    <string name="datalinkBtn">2. Datalink Layer</string>
+    <string name="physicalBtn">1. Physical Layer</string>
+
+    <!--TCP/IP Model Button -->
+    <string name="tcp_applicationTcp">4. Application Layer</string>
+    <string name="tcp_transportTcp">3. Transport Layer</string>
+    <string name="tcp_internetTcp">2. Internet Layer</string>
+    <string name="tcp_linkTcp">1. Link/Network Interface Layer</string>
+
+
+    <string name="transportTcp">Transport Layer</string>
+    <string name="applicationTcp">Application Layer</string>
+    <string name="internetTcp">Internet Layer</string>
+    <string name="linkTcp">Link/Network Interface Layer</string>
+
+    <!--More Stuffs Button -->
+    <string name="more_cmdBtn">Commands</string>
+    <string name="more_ipBtn">IP Address</string>
+    <string name="more_tcpudpBtn">TCP vs. UDP</string>
+    <string name="more_ipvBtn">IPv4 vs. IPv6</string>
+    <string name="more_ieeeBtn">IEEE 802 Standards</string>
+    <string name="more_conceptsBtn">Concepts</string>
+    <string name="more_fullformsBtn">Full Forms</string>
+
+
+    <!--App Content -->
+    <string name="model_protocol">Protocols</string>
+    <string name="model_devices">Devices</string>
+    <string name="model_tech">Technology</string>
+
+    <!-- OSI Model-->
+
+    <!-- Introduction-->
+    <string name="osi_intro">•	OSI model was invented and published by ISO (International Organization for Standardization) in 1984.\n\n•	OSI model was developed to eliminate hardware, software and platform dependencies.\n\n•	OSI model can be used to understand data processing between systems.\n\n•	OSI model has layered architect.
+        \n\n•	OSI model has 7 layers and each layer has unique function.\n\n•	Each layer has a process for data and it produces a final product, which is passed to its next layer that final product is called PDU (Protocol Data Unit).</string>
+    <!--7 Application Layer-->
+    <string name="osi_app">•	User starts communication from this layer using application or software. (ex.- Browser, E-mail client, etc.)\n\n•	It provides network services to application process.
+    \n\n•	Provides user interface.\n\n•	Provides authentication.\n\n•	PDU >>> DATA</string>
+
+    <string name="osi_app_protocol">\nHTTP – Hypertext Transfer Protocol  \n(Port No :- 80/TCP)\n\n	HTTPS – Hypertext Transfer Protocol Secure \n(Port No :- 443/TCP)\n\n	TELNET – Terminal Network  (\nPort No :- 23/TCP)\n\n	SSH – Secure Shell \n(Port No :-22/TCP)\n\n	FTP – File Transfer Protocol \n (Port No :- 20/21/TCP)\n\n	RDP – Remote Desktop Protocol\n(Port No :- 3389/UDP)
+\n\n	TFTP – Trivial File Transfer Protocol  \n(Port No :- 69/UDP)\n\n	DHCP – Dynamic Host Configuration Protocol  \n(Port No :- 67/68/UDP)\n\n	DNS – Domain Name Service  \n(Port No :- 53/TCP/UDP)\n\n	SNMP – Simple Network Management Protocol  \n(Port No :- 161/162/TCP)\n\n	SMTP –Simple Mail Transfer Protocol  \n(Port No :- 25/TCP)
+\n\n	POP3 – Post Office Protocol  \n(Port No :- 110/TCP)\n\n	IMAP – Internet Message Access Protocol  \n(Port No :- 143/TCP)\n\n	NTP – Network Time Protocol  \n(Port No :- 123/TCP)
+        \n\n	LDAP – Light weight Directory Access Protocol \n (Port No :- 389/TCP)</string>
+
+    <!--6 Presentation Layer-->
+    <string name="osi_present">•	Translate the data in machine language (ASCII, EBCDIC).\n\n•	Encrypt the data.\n\n•	Compress the data.\n\n•	PDU >>> DATA</string>
+
+    <!--5 Session Layer-->
+    <string name="osi_ses">•	Start, maintains and terminate the session between hosts.\n\n•	Select the best path and managed it (half duplex, full duplex).\n\n•	Create a checkpoint to check session gets lost in between data transmission or not.
+             \n\n•	PDU >>> DATA</string>
+    <string name="osi_ses_protocol">RPC – Remote Procedure Call\n(Port No: - 135/TCP/UDP)\n\nNETBIOS – Network Basic Input /Output System\n(Port No: - 137/138/UDP)\n\nSIP – Session Initiation Protocol\n(Port No: - 5060/5061/TCP/UDP)
+            \n\nRTP – Real Time Transport Protocol\n(Port No: -  16384-32767/UDP)</string>
+
+    <!--4 Transport Layer-->
+    <string name="osi_trans">•	Acknowledgement messages and sequence numbers.\n\n•	Use Segmentation Process: - Break messages from session layer into segment format.\n\n•	Ensuring reliable data delivery.
+            \n\n•	PDU >>> SEGMENT</string>
+    <string name="osi_trans_protocol">UDP – User Diagram Protocol \n\nTCP – Transfer Control Protocol </string>
+
+    <!--3 Network Layer-->
+    <string name="osi_net">•	Finds the best path for the packet to reach to the destination.\n\n•	Fragmenting packets.\n\n•	It is responsible for source to destination delivery.\n\n•	It controls the Flow (regulating the speed of data transfer) and Error (detection of transmission error).
+        \n\n•	PDU >>> PACKET</string>
+    <string name="osi_net_protocol">IP – Internet Protocol \n\nICMP – Internet Control Message Protocol\n\nIGMP – Interior Gateway Protocol \n\nNAT – Network Address Translation \n\nOSPF – Open Shortest Path First </string>
+
+    <string name="osi_net_devices">Router, Multilayer Switch, Firewall </string>
+
+    <!--2 Data-Link Layer-->
+    <string name="osi_datalink">•	Encapsulation of incoming and outgoing data as frames.\n\n•	Network interface hardware addressing.\n\n•	It is responsible for node to node delivery.
+        \n\n•	It uses a CRC (Cyclic Redundancy Checks) to detect error.\n\n•	PDU >>> FRAME
+        \n\n\n•	It divided in two sub-layer according to its functions.\n\no	MAC (Media Access Control): – This sub-layer defines the way in which multiple network adapters share a single transmission medium.\n\no	LLC (Logical Link): – This sub-layer is responsible for establishing and maintaining a link between communicating devices for transmission of frames. </string>
+    <string name="osi_datalink_protocol">ARP – Address Resolution Protocol \n\nPPP – Point to Point Protocol\n\nPPTP – Point to Point Tunneling Protocol \n\nL2TP – Layer 2 Tunneling Protocol\n\nHDLC – High level Data Link Control</string>
+
+    <string name="osi_datalink_devices">Bridge, NIC card, Switch</string>
+
+    <!--1 PhysicalLayer-->
+    <string name="osi_phy">•	Convert digital data into analog signals.\n\n•	Network interface hardware.\n\n•	PDU >>> BITS</string>
+    <string name="osi_phy_tech">DSL, SONET, etc</string>
+    <string name="osi_phy_devices">Cable, Connector, Hub, Modem, Repeater</string>
+
+
+    <!-- TCP/IP Model-->
+
+    <!-- Introduction-->
+    <string name="tcp_intro">•	It was made by U.S D.O.D.\n\n•	Practically this model was used globally by all vendors.\n</string>
+    <!--4 Application Layer-->
+    <string name="tcp_app">•	This layer at which many TCP/IP services can be run such as FTP, HTTP and SMTP.
+    \n\n•	UNIX like applications interface with the TCP/IP application protocols using an APPLICATION PROGRAMMING INTERFACE (API) called Berkeley Socket Interface.
+    \n\n•	A similar version of this was created for windows and it is generally referred to as WINSOCK.
+    \n\n•	This interface allows programmer to call functions of TCP/IP application protocols in software applications such as a web browser or FTP client.</string>
+    <!--3 Transport Layer-->
+    <string name="tcp_trans">•	The transport layer provides communication between the source and destination computers and breaks application layer information into packets.
+    \n\n•	TCP/IP provides two methods of data delivery.
+    \n\n1.	Connection oriented delivery using the TRANSMISSION CONTROL PROTOCOL (TCP).
+    \n\n2.	Connectionless delivery using USER DATAGRAM PROTOCOL (UDP).</string>
+    <!--2 Internet Layer-->
+    <string name="tcp_internet">•	The internet layer provides addressing and routing functions.
+    \n\n•	It uses number of protocols (Internet protocol [IP], Address Resolution Protocol [ARP] ) to ensure the delivery of packets.</string>
+    <!--1 link Layer-->
+    <string name="tcp_link">•	Link layer is the equivalent of the OSI physical and data link layer as it defines the host’s connection to the network.
+    \n\n•	This layer compromises the hardware and software involved in the interchange of frames between computers.
+    \n\n•	Technology used is : LAN based(Ethernet or WIFI) or WAN based (ISDN, DSL).</string>
+
+    <!-- Figures-->
+    <string name="osi">OSI</string>
+    <string name="tcp">TCP\\IP</string>
+    <string name="osi_flowchart">OSI Flowchart</string>
+
+
+    <!-- More Stuffs-->
+
+    <!-- Commands-->
+    <string name="cmd_title">Basic Networking Commands</string>
+    <string name="cmd_intro">To use this commands, type it in windows COMMAND PROMPT or RUN.</string>
+    <string name="cmd_lines">•	ncpa.cpl  :– \nfor network settings.\n\n•	ipconfig  /all :- \nTo check all MAC address.    \n\n•	ping  IP (ping 192.168.2.1) :-\n To check connection between network.
+    \n\n•	Ping  IP –t  (ping google.com –t) :- \nfor continue pinging.    \n\n•	service.msc  :- \nTo start or stop services ex. telnet.    \n\n•	telnet  IP (telnet 172.18.50.1) :- \nTo access opposite pc CLI in network.    \n\n•	Tracert IP (tracert 192.168.1.1) :- \nTo trace path ( tracert google.com).
+    \n\n•	nslookup :- \nTo verify name resolution.    \n\n•	nbtstat –a IP (nbtstat –a 172.18.50.2) :- \nTo find info about IP.    \n\n•	netstat –a :- \nTo listen/view protocols port using or close.    \n\n•   arp –a :- \nTo see MAC table of router/switch.
+    \n\n•   getmac :- \nTo see MAC address of hardware.</string>
+    <!-- IP Address-->
+    <string name="ip_title">IP Address (Internet Protocol)</string>
+    <string name="ip_intro_one">•	Each host has a unique address.\n•	Layer 3 protocol.\n•	32 bit.</string>
+    <string name="ip_title_two">IP Class</string>
+    <string name="ip_intro_two">• Range of 127.0.0.1 is used for LOOPBACK.\n\n• Range of 169.254.0.1 to 169.254.255.254 is used for APIPA.</string>
+    <string name="ip_title_three">Subnetting Table</string>
+
+    <string name="ip_sub_classA">Class A</string>
+    <string name="ip_sub_classB">Class B</string>
+    <string name="ip_sub_classC">Class C</string>
+    <!-- IEEE 802 Standards-->
+    <string name="ieee_title">802.11 Wireless Standard</string>
+
+
+    <!--Concepts-->
+
+    <string name="example_title">Example</string>
+    <string-array name="concepts">
+        <item>ARP (Address Resolution Protocol)</item>
+        <item>3 Way Handshake</item>
+        <item>DHCP</item>
+        <item>Communication Methods</item>
+        <item>DNS (Domain Name Service)</item>
+        <item>Transmission Mode</item>
+    </string-array>
+
+    <!--ARP-->
+    <string name="arp_title">ARP (Address Resolution Protocol)</string>
+    <string name="arp_intro_one">•	It is a network layer protocol.    \n\n•	It’s use to convert IP address into MAC address and its works only in LAN (Local Area Network)
+    \n\n•	ARP >>> REQUEST >>> use >>> BROADCAST.    \n\n•	ARP >>> RESPONSE >>> use >>> UNICAST.</string>
+
+    <string name="arp_line_one"><![CDATA[There are three pc that are connected with switch. Now,PC-A want to communicate with PC-C.
+    \nSteps of communication this way…
+    \n\n 1) First of all PC-A check its own cache(ARP)table if last entry not found it  ping the PC-C and check the connectivity.
+    \n => ping 192.168.1.3 \n\n ping use the ICMP (Internet Control Message Protocol) ]]></string>
+
+    <string name="arp_line_two">2) PC-A didn\'t know the Destination MAC address so, PC-A broadcast the REQUEST message to all connected devices through a switch.In message it asking for
+        \n\n Who is 192.168.1.3"\n tell 192.168.1.1" \n provide your MAC address
+                 \n\n for the BROADCAST it use (ffff:ffff:ffff)</string>
+
+    <string name="arp_line_three">3) Now, PC-A update own cache table.
+                \n\n S.IP- 192.168.1.1 \n S.MAC- 0000:0000:1111
+                \n\n4) PC-B ignore this REQUEST message where PC-C give RESPONSE using UNICAST to the PC-A
+                \n\n I am 192.168.1.3 \n My MAC addresss is 0000:0000:3333</string>
+    <string name="arp_line_four">5) Connection is  ESTABLISH between PC-A and PC-C. Now, finally all pc-A,C and switch updates own MAC table.</string>
+    <string name="arp_line_five">To view ARP table in your PC/laptop,
+ Open CMD Type-
+                \n\n=> To View ARP table \n arp -a \n\n=> To delete ARP table \n arp -d
+                \n\n=> To convert dynamic entry into static \n arp -s 192.168.1.3 00:00:00:00:00:00
+                \n\n\n NOTE:- \n MAC Address Format for \n cisco devices >>> 0000:0000:0000 \n windows/linux devices >>> 00:00:00:00:00:00"
+        </string>
+
+    <!--3 Way Handshake-->
+    <string name="way_title">3 Way Handshake (Connection Oriented Communication)</string>
+    <string name="way_intro"> •	A three-way-handshake is a method used in a TCP/IP network to create a connection oriented communication between a local host, client and server. It is a three-step method that exchange SYN and ACK (acknowledgment) packets before actual data communication begins.</string>
+    <string name="way_line_one">1) The first (SENDER) connection agreement segment is a request for SYNCHRONIZATION (SYN).</string>
+    <string name="way_line_two">2) The (RECEIVER) next segments acknowledge (ACK) the request and establish connection parameters -the rules- between hosts.</string>
+    <string name="way_line_three">3) The final segment is also an acknowledgment, which notifies the destination host that the connection agreement has been accepted and that the actual connection has been established. Data transfer can now begin.</string>
+
+    <!--DHCP-->
+    <string name="dhcp_title">DHCP (Dynamic Host Configuration Protocol)</string>
+    <string name="dhcp_intro">•	It is a client-server protocol that automatically provides an IP address to the connected host and other related configuration information such as the subnet mask and default gateway.
+    \n\n	Port Number:
+    \n  o	 67/TCP – DHCP Server
+    \n  o	68/TCP – DHCP Client
+    \n\n•	How DHCP work?
+    \no	It uses DORA (Discover, Offer, Request, Acknowledgment) process</string>
+
+    <string name="dhcp_line_one">1) First the Client Pc DISCOVER the DHCP server is available or not in network by sending below packet.
+    \n\nDISCOVER</string>
+    <string name="dhcp_line_two">2) Now, DHCP server receive the packet from client Pc and OFFER the dhcp configuration to the client PC.
+    \n\n OFFER </string>
+    <string name="dhcp_line_three">3) Client Pc receive the OFFER from DHCP server and REQUEST for the dhcp configuration that send by the server.
+    \n\nREQUEST</string>
+    <string name="dhcp_line_four">4) Now, the DHCP server and Client Pc send the ACK to each other.
+    \n\n ACK </string>
+    <string name="dhcp_line_five">NOTE: \n\n In case of failure to discover dhcp server in network the client pc obtain the IP address from the APIPA that was a default IP configuration.
+    \n\n APIPA IP Range is >>> 169.254.0.0 to 169.254.255.255</string>
+    <string name="dhcp_final_conf">Final DHCP Configuration Of Client Pc</string>
+
+    <!--Communication Methods-->
+    <string name="com_title">Communication Methods</string>
+    <string name="com_title_one">1. Unicast</string>
+    <string name="com_title_two">2. Multicast</string>
+    <string name="com_title_three">3. Broadcast</string>
+
+    <string name="com_intro">•	Communication is the process in which two computer or devices transfer data, instructions and information.
+    \n\n•\tThere are mainly three communication methods use between source and destination nodes.
+    \n\n 1.\tUnicast        \n 2.\tMulticast    \n 3.\tBroadcast</string>
+
+    <string name="com_line_one">•	ONE to ONE connection.
+    \n\n•\tSource have exact address (IP/MAC/etc) of Destination device, so sender/source can send a separate message to each destination device.</string>
+
+
+    <string name="com_line_two">•	ONE to MANY connections.
+    \n\n•\tIt sends the packet to required host or who needed/requested.
+    \n\n Ex.- YouTube server is a source and connected devices are destinations. The server will be send streaming packet to connected devices that requested for a streaming.
+    \n\n•	The range of IP address for Multicast is 224.0.0.0 to 239.255.255.255.</string>
+
+    <string name="com_line_three">•	ONE to ALL connections.
+    \n\n•\tIt sends the packet to all connected devices/destination in network. It’s also send the packets to those devices that didn’t requested or needed.\n\n
+    •\tFor a broadcasting, IP address is 255.255.255.255 and Mac Address is ff:ff:ff:ff:ff:ff or ffff:ffff:ffff.</string>
+
+    <!--DNS-->
+    <string name="dns_title">DNS (Domain Name Service)</string>
+    <string name="dns_intro">•	DNS ==> Domain Name System/Server/Service.\n\n•	It’s use for name resolution. DNS convert the website name into IP address.
+        \n\n•	port no >>> 53/TCP/UDP\n\n\n	how DNS work on internet that discuss in below example.The process is approx releavent to real process.</string>
+
+    <string name="dns_line_one">1) Assume that user using a PC at home and user enter the website (www.lionheartapps.com) name in browser.
+    \n\nNow, First browser check its own cache table to check this website before open or not.If entry is not found in cache table than it send a request to ISP server.
+    \n\nISP - Internet Service Provider</string>
+
+    <string name="dns_line_two">2) ISP check own server entry regarding website.If it is not found than ISP server request to the root server as show in picture (WHO is www.lionheartapps.com ?)
+    \n\n root server :- \nThe authoritative name servers that serve the DNS root zone, commonly known as the “root servers”, are a network of hundreds of servers in many countries around the world.
+    \n\nThere are 13 root server in world.
+    \n\n3) root server give response to ISP as a, .com is XYZ server.(the website which have main domain .com, the list of them is in XYZ server)</string>
+
+
+    <string name="dns_line_three">4) ISP send request to XYZ server that WHO is www.lionheartapps.com ?
+    \n\n5) XYZ server give response that lionheartapps.com is ABC server.
+    \n\n6) ISP again send request to ABC server that WHO is www.lionheartapps.com ?
+    \n\n7) ABC server give response to ISP, www.lionheartapps.com is 172.65.254.248</string>
+
+    <string name="dns_line_four">8) Finally user can see a website on PC. ISP make entry of website in own dns server.</string>
+
+    <!--Transmission Mode-->
+    <string name="mode_title"> Transmission Mode / Communication Mode </string>
+    <string name="mode_title_one">1. Simplex Mode </string>
+    <string name="mode_title_two">2. Half Duplex (HDX) Mode </string>
+    <string name="mode_title_three">3. Full Duplex Mode (FDX) Mode </string>
+
+    <string name="mode_intro">•	Transmission mode means transferring of data between two devices. It is also called communication mode. These modes direct the direction of flow of information.
+   \n\n •	There are three types of transmission mode.
+    \n1.	Simplex
+    \n2.	Half Duplex (HDX)
+    \n3.	Full Duplex (FDX)</string>
+
+    <string name="mode_line_one">•	In this mode sender can only send the data. Sender can’t receive the data.
+   \n\n •	It is the one-way communication (unidirectional process).
+    \n\n•	Example- keyboard and monitor, remote and television</string>
+
+    <string name="mode_line_two">•	In this mode both sender and receiver can send and receive data at a different time. When sender can send data to receiver then at that time receiver can only receive the data, it can’t send data to sender.
+    \n\n•	Both can’t communicate at a same time. One way communication at a time.
+    \n\n•	Example- Walkie-Talkie </string>
+
+    <string name="mode_line_three">•	In this mode both sender and receiver can send and receive data at a same time.
+    \n\n•	Data can be send and receive in both direction at a same time.
+    \n\n•	Example- mobile phones </string>
+
+    <!-- Full Forms -->
+    <string-array name="fullForms">
+        <item>AD – Administrative Distance</item>
+        <item>AM – Amplitude Modulation</item>
+        <item>APIPA – Automatic Private IP Addressing</item>
+        <item>ARP – Address Resolution Protocol</item>
+        <item>ARPAnet – Advance Research Project Agency </item>
+        <item>ASIC – Application Specific Integrated Circuit</item>
+        <item>AWG – American Wire Gauge</item>
+        <item>BGR – Border Gateway Protocol</item>
+        <item>BNC – Bayonet Neil Concelman</item>
+        <item>CAM – Content Addressable Memory </item>
+        <item>CAN – Campus Area Network</item>
+        <item>CDMA – Code Division Multiple Access </item>
+        <item>CIDR – Classless Inter-Domain Routing</item>
+        <item>CSMA/CA (Wireless Network) – \nCarrier Sense Multiple Access/ Collision Avoidance</item>
+        <item>CSMA/CD (Wired Network) – \nCarrier Sense Multiple Access/ Collision Detection</item>
+        <item>CSU/DSU – Channel Service Unit/ Data Service Unit</item>
+        <item>DARPA – Defence Advance Research Project Agency (Russia) </item>
+        <item>DCE – Data Communication Equipment</item>
+        <item>DHCP – Dynamic Host Configuration Protocol</item>
+        <item>DNS – Domain Name Service/Server</item>
+        <item>DOD – Department of Defence (U.S) </item>
+        <item>DTE – Data Terminal Equipment</item>
+        <item>EDGE – Enhanced Data rates for Global Evolution</item>
+        <item>EIA/TIA – Electronic Industries Association / Telecommunication Industries Association</item>
+        <item>EIGRP – Enhanced Interior Group Routing Protocol</item>
+        <item>FC – Ferrule Connector</item>
+        <item>FM – Frequency Modulation</item>
+        <item>FTP -File Transfer Protocol</item>
+        <item>GSM – Global System for Mobile</item>
+        <item>HTML- Hyper Text Markup Language</item>
+        <item>HTTP – Hyper Text Transfer Protocol</item>
+        <item>HTTPS – Hyper Text Transfer Protocol Secure</item>
+        <item>IAB – Internet Architecture Board</item>
+        <item>IANA – Internet Assigned Numbers Authority </item>
+        <item>ICMP – Internet Control Message Protocol</item>
+        <item>IDEN – Integrated Digital Enhanced Network</item>
+        <item>IEEE -   Electrical and Electronics Engineers</item>
+        <item>IETF – Internal Engineering Task Force</item>
+        <item>IGMP – Internet Group Management Protocol</item>
+        <item>IGRP – Interior Gateway Routing Protocol</item>
+        <item>IMAP – Internet Message Access Protocol</item>
+        <item>IP- Internet Protocol </item>
+        <item>IPCP – IP Control Protocol</item>
+        <item>IRTF – Internet Research Task Force</item>
+        <item>ISP -Internet Service Provider</item>
+        <item>LAN – Local Area Network</item>
+        <item>LCP – Link Control Protocol</item>
+        <item>LLC – Logical Link Control</item>
+        <item>MAC – Media Access Control</item>
+        <item>MAN – Metropolitan Area Network</item>
+        <item>MIME – Mail and Multipurpose Internet Mail Extension</item>
+        <item>Modem – Modulator-Demodulator</item>
+        <item>MTRJ – Mechanical Transfer Registered Jack</item>
+        <item>NAT – Network Address Translation</item>
+        <item>NCP – Network Control Protocol</item>
+        <item>Netbios – Network Basic Input Output System</item>
+        <item>NFS - Network File System</item>
+        <item>NIC – Network Interface Card</item>
+        <item>NNTP – Network News Transfer Protocol</item>
+        <item>NTP – Network Time Protocol</item>
+        <item>OSPF – Open Shortest Path First</item>
+        <item>PAN – Personal Area Network</item>
+        <item>POP3 – Post Office Protocol</item>
+        <item>PPP – Point to Point Protocol</item>
+        <item>PSTN – Public Switched Telephone Network</item>
+        <item>RARP – Reverse Address Resolution protocol </item>
+        <item>RDP – Remote Desktop Protocol</item>
+        <item>RIP – Routing Information Protocol</item>
+        <item>RJ-45 – Registered Jack 45</item>
+        <item>SC – Subscribe Connector/Standard Connector</item>
+        <item>SLIP – Serial Line Internet Protocol</item>
+        <item>SMS – Short Message Service</item>
+        <item>SMTP – Simple Mail Transfer Protocol</item>
+        <item>SNA – System Network Architecture </item>
+        <item>SSH – Secure Shell</item>
+        <item>ST – Straight Tip Connector</item>
+        <item>STP – Shielded Twisted Pair</item>
+        <item>STP – Spanning Tree Protocol</item>
+        <item>TCP – Transmission Control Protocol </item>
+        <item>Telnet – Terminal Network</item>
+        <item>TLS – Transport Layer Security</item>
+        <item>TTL – Time to Live</item>
+        <item>UDP -User Datagram Protocol</item>
+        <item>URL – Uniform Resource Location</item>
+        <item>UTP – Unshielded Twisted Pair</item>
+        <item>WAN – Wide Area Network</item>
+        <item>WCDMA – Wideband CDMA</item>
+        <item>WWW – World Wide Web</item>
+
+    </string-array>
+
+    <!-- EIA/TIA Standards-->
+    <string name="eiaTiaTv">EIA/TIA Color Code</string>
+    <string name="eiaTia568A">EIA/TIA 568A</string>
+    <string name="eiaTia568B">EIA/TIA 568B</string>
+    <string name="tiaIntroTv">TIA/EIA-568-B.1-2001 is likely the most commonly used and talked about feature of the specification created in 1988. \n\n568-a is the definition of pin assignments for the the pairs within Category 3 (CAT3), Category 5 (CAT5) and Category 6 (CAT6) unshielded twisted-pair (UTP) cables (eight conductor, 100-ohm balanced twisted pair cabling). \n\nThe Pin/Pair assignments were named T568A and T568b, both of which define the pinout or specific order the UTP pairs need to be terminated within 8P8C (Eight Position, Eight Conductor) modular connecters, also known as RJ45 connectors.</string>
+    <string name="cableCrossTv">Ethernet Crossover Cables vs. Straight-through Cables</string>
+
+</resources>
