@@ -5,7 +5,7 @@ import android.content.Context
 import android.content.SharedPreferences
 import android.content.SharedPreferences.Editor
 
-class PrefManager {
+class PrefManager() {
 
     private val PREF_NAME = "Lionheartapps- Welcome"
     private val IS_FIRST_TIME_LAUNCH = "IsFirstTimeLaunch"
@@ -16,11 +16,11 @@ class PrefManager {
     // shared pref mode
     var PRIVATE_MODE = 0
 
-    @SuppressLint("CommitPrefEdits")
+
     fun PrefManager(context: Context?) {
         _context = context
         pref = _context!!.getSharedPreferences(PREF_NAME, PRIVATE_MODE)
-        editor = pref.edit();
+        editor = pref?.edit();
     }
 
     fun isFirstTimeLaunch(): Boolean {
